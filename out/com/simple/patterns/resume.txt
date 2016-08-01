@@ -17,7 +17,7 @@ Ease the design by identifying a simple way to realize relationships between ent
 
 >>> Decorator - Add responsibilities to objects dynamically
 >>> Facade - A single class that represents an entire subsystem
->>> Flyweigth - A fine-grained instance used for efficient sharing
+>>> Flywigth - A fine-grained instance used for efficient sharing
 
 ######### Behavioral ###########
 Identify common communication patterns between objects and realize these patterns.
@@ -28,7 +28,6 @@ Identify common communication patterns between objects and realize these pattern
 >>> Iterator - Sequentially access the elements of a collection
 >>> Observer - A way of notifying change to a number of classes
 >>> State - Alter an object's behavior when its state changes
->>> Memento - Capture and restore an object's internal state
 
 
 ===============================================

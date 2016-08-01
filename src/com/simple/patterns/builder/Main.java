@@ -6,7 +6,10 @@ package com.simple.patterns.builder;
 public class Main {
 
     public static void main(String[] args) {
-        Bang bang = new BangBuilder().getInstance();
-        System.out.println(bang);
+        final Bang simpleBang = new BangBuilder().getSimpleBang("Luis");
+        System.out.println(simpleBang);
+
+        final Bang complexBang = new BangBuilder().getComplexBang("Luis",200.0,"123455434123");
+        System.out.println(complexBang);
     }
 }
