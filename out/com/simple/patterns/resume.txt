@@ -16,8 +16,10 @@ Deal with object creation mechanisms, trying to create objects in a manner suita
 Ease the design by identifying a simple way to realize relationships between entities.
 
 >>> Decorator - Add responsibilities to objects dynamically
->>> Facade - A single class that represents an entire subsystem
 >>> Flyweigth - A fine-grained instance used for efficient sharing
+>>> Facade - A single class that represents an entire subsystem
+>>> Adapter - Match interfaces of different classes
+>>> Bridge - Separates an object’s interface from its implementation
 
 ######### Behavioral ###########
 Identify common communication patterns between objects and realize these patterns.
