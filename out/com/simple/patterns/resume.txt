@@ -29,7 +29,8 @@ Identify common communication patterns between objects and realize these pattern
 >>> Observer - A way of notifying change to a number of classes
 >>> State - Alter an object's behavior when its state changes
 >>> Memento - Capture and restore an object's internal state
-
+>>> Interpreter - A way to include language elements in a program
+>>> Visitor - Defines a new operation to a class without change
 
 ===============================================
 ================== Source =====================
