@@ -33,6 +33,7 @@ Identify common communication patterns between objects and realize these pattern
 >>> Memento - Capture and restore an object's internal state
 >>> Interpreter - A way to include language elements in a program
 >>> Visitor - Defines a new operation to a class without change
+>>> Command - Encapsulate a command request as an object
 
 ===============================================
 ================== Source =====================
